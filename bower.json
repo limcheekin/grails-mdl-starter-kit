@@ -1,0 +1,19 @@
+{
+  "name": "grails-mdl",
+  "version": "0.0.1",
+  "authors": [
+    "Lim Chee Kin <limcheekin@vobject.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "grails-app/assets/bower/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.2"
+  }
+}
