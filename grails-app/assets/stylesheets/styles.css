@@ -245,3 +245,17 @@ _:-ms-input-placeholder, :root .demo-graph {
       -ms-flex-align: center;
           align-items: center;
 }
+
+/*------------------ custom styles ----------------*/
+.mdl-card {
+    padding: 1em
+}
+
+
+fieldset {
+    width: 550px;
+}
+
+.errors {
+    color: red;
+}

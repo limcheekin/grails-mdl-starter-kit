@@ -62,7 +62,7 @@
           <a href="https://github.com/limcheekin/grails-mdl-starter-kit"><asset:image src="grails_logo.png" alt="Grails" class="logo"/></a>
           <asset:image src="user.jpg" alt="Avatar" class="demo-avatar"/>  
           <div class="demo-avatar-dropdown">
-            <span>hello@example.com</span>
+            <span>email@example.com</span>
             <div class="mdl-layout-spacer"></div>
             <button id="accbtn" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
               <i class="material-icons" role="presentation">arrow_drop_down</i>

@@ -9,6 +9,9 @@ class Person {
 	static hasMany = [communications: Communication]
 
     static constraints = {
-    	firstName blank:false, size:5..60
+    	firstName nullable:true
+    	lastName nullable:true
+    	age nullable:true
+    	description nullable:true, maxSize:100
     }
 }
